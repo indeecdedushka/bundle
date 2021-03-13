@@ -1,1 +1,1 @@
-# bundle
+<script src = "./main.js"></script>
